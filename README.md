@@ -1,2 +1,2 @@
-# spotify-end
-Porjeto desenvolvido para simular o spotify por Bruno Gama, José Henrique e Mateus Magaljães.
+# spotifydoscria
+Projeto criado para simular o spotify, desenvolvido por Bruno Gama, Mateus Magalhães e José Henrique 
